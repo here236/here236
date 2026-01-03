@@ -1,3 +1,6 @@
-## Hi there 👋
+<script src="https://code.iconify.design/iconify-icon/3.0.0/iconify-icon.min.js"></script>
 
-<a><img src="Downloading Progress.svg"/></a>
+# 🎍 Alexandre Fontes
+
+**`Systems Development Technician & Game Creator`**
+
