@@ -12,7 +12,7 @@ Hi, I am a developer focused on web, software, and game development, with practi
 
 🛠️ Technologies I Use
 
-Languages: JavaScript, C#, Kotlin, SQL
+Languages: JavaScript, C#, Kotlin, SQL, Python
 
 Web & Mobile: HTML, CSS, React Native, Node.js
 
